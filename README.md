@@ -20,7 +20,7 @@ El proyecto utiliza técnicas avanzadas de **Procesamiento de Lenguaje Natural (
 -  **Características extraídas**: 41 por publicación
 -  **Fase actual**: Análisis estadístico y modelado predictivo
 
-## 🛠️ Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 
 ### Lenguaje Base
 - **Python 3.8+**: Lenguaje principal del proyecto
@@ -102,7 +102,7 @@ pip install -r requirements.txt
 python config.py
 ```
 
-## 📖 Uso
+##  Uso
 
 ### Pipeline Completo
 
@@ -189,13 +189,13 @@ python scripts/validacion_sentimiento.py --evaluar
 
 **Total: 41 características** + metadatos
 
-## 📈 Medidas Psicométricas
+##  Medidas Psicométricas
 
 - **UCLA Loneliness Scale**: Soledad
 - **DASS-21**: Depresión, Ansiedad, Estrés
 - Variables demográficas
 
-## 🔬 Validación de Resultados
+##  Validación de Resultados
 
 El proyecto incluye múltiples niveles de validación:
 
@@ -219,7 +219,7 @@ El proyecto incluye múltiples niveles de validación:
 - **Idioma**: Análisis optimizado para español
 - **Temporalidad**: Análisis transversal (no longitudinal)
 
-## 📝 Resultados Principales
+##  Resultados Principales
 
 ### Correlaciones Significativas (Spearman, n=18)
 
@@ -255,16 +255,16 @@ Este es un proyecto de investigación académica. Para contribuir:
 4. Push a la rama (`git push origin feature/nueva-caracteristica`)
 5. Abre un Pull Request
 
-## 📄 Licencia
+##  Licencia
 
 Este proyecto es de código abierto bajo licencia MIT.
 
-## 👤 Autor
+##  Autor
 
-Miguel Zelaya  
+Miguel Angel Zelaya Flores
 Proyecto de Investigación en Indicadores de Comportamiento Digital
 
-## 📚 Referencias
+##  Referencias
 
 ### Herramientas y Bibliotecas
 - **pysentimiento**: Pérez, J. M., et al. (2021). [pysentimiento: A Python Toolkit for Sentiment Analysis and Social NLP tasks](https://github.com/pysentimiento/pysentimiento)
@@ -295,7 +295,7 @@ Si utilizas este código o metodología en tu investigación, por favor cita:
 
 Para más información, consulta la documentación o abre un **Issue** en GitHub.
 
-## 🔮 Trabajo Futuro
+##  Trabajo Futuro
 - [ ] **Expandir muestra**: Incrementar a n > 50 para mayor poder estadístico
 - [ ] **Análisis longitudinal**: Estudiar evolución temporal de indicadores
 - [ ] **Más plataformas**: Incluir Instagram, Twitter, TikTok
