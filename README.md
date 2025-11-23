@@ -79,7 +79,7 @@ Indicadores_Comportamiento/
 
 ```
 
-## 🚀 Instalación
+##  Instalación
 
 ### 1. Clonar el repositorio
 
@@ -204,7 +204,7 @@ El proyecto incluye múltiples niveles de validación:
 -  Intervalos de confianza bootstrap
 -  Validación cruzada (pendiente con n=20)
 
-## ⚠️ Consideraciones Éticas y Limitaciones
+##  Consideraciones Éticas y Limitaciones
 
 ### Privacidad y Confidencialidad
 -  **Anonimización**: Todos los datos personales han sido anonimizados
@@ -245,7 +245,7 @@ Los análisis revelaron correlaciones significativas entre indicadores digitales
 
 **Nota**: Todos los resultados han sido validados estadísticamente. Ver `data/results/` para análisis detallados.
 
-## 🤝 Contribuciones
+##  Contribuciones
 
 Este es un proyecto de investigación académica. Para contribuir:
 
@@ -273,7 +273,7 @@ Proyecto de Investigación en Indicadores de Comportamiento Digital
 - **DASS-21**: Lovibond, P. F., & Lovibond, S. H. (1995). *The structure of negative emotional states: Comparison of the Depression Anxiety Stress Scales (DASS) with the Beck Depression and Anxiety Inventories*. Behaviour Research and Therapy, 33(3), 335-343.
 - **UCLA Loneliness Scale**: Russell, D. W. (1996). *UCLA Loneliness Scale (Version 3): Reliability, validity, and factor structure*. Journal of Personality Assessment, 66(1), 20-40.
 
-## 📊 Citación
+##  Citación
 
 Si utilizas este código o metodología en tu investigación, por favor cita:
 
@@ -304,7 +304,7 @@ Para más información, consulta la documentación o abre un **Issue** en GitHub
 - [ ] **Validación cruzada**: Con poblaciones diferentes
 - [ ] **Publicación académica**: Preparar manuscript para revista científica
 
-## 🤝 Cómo Contribuir
+##  Cómo Contribuir
 
 Este proyecto está abierto a colaboraciones académicas:
 
@@ -321,13 +321,13 @@ Este proyecto está abierto a colaboraciones académicas:
 - Optimización de modelos
 - Documentación y ejemplos
 
-## 📄 Licencia
+##  Licencia
 
 Este proyecto se publica bajo la licencia **MIT**. Ver archivo `LICENSE` para más detalles.
 
 Los datos personales están protegidos y no se incluyen en el repositorio por razones de privacidad y ética.
 
-## 📧 Contacto
+##  Contacto
 
 **Miguel Zelaya**  
 📧 Email: [mzelayaf@unah.hn]  
@@ -336,7 +336,7 @@ Los datos personales están protegidos y no se incluyen en el repositorio por ra
 
 Para preguntas sobre el proyecto, metodología o colaboraciones, no dudes en abrir un **Issue** o contactarme directamente.
 
-## 🙏 Agradecimientos
+##  Agradecimientos
 
 - A todos los **participantes** que compartieron sus datos voluntariamente
 - Al equipo de [**pysentimiento**](https://github.com/pysentimiento/pysentimiento) por su excelente biblioteca
