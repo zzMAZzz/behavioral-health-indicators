@@ -1,0 +1,15 @@
+,ucla_total,dass_depresion,dass_ansiedad,dass_estres
+promedio_score_positivo,0.295,0.316,0.420,0.456
+promedio_score_negativo,-0.098,-0.093,-0.070,-0.013
+promedio_score_neutral,0.032,-0.024,0.009,-0.051
+ratio_pos_neg,0.166,0.161,0.176,0.141
+num_publicaciones,0.213,0.161,0.256,0.661**
+promedio_palabras,0.069,-0.183,-0.320,0.201
+promedio_absolutistas,0.323,0.290,0.368,0.204
+promedio_negativas,-0.249,-0.335,-0.547*,-0.419
+promedio_alegria,0.425,0.254,0.284,0.060
+promedio_tristeza,0.154,0.183,0.120,0.629**
+promedio_enojo,0.086,0.019,0.200,0.323
+promedio_miedo,-0.024,0.172,0.113,0.717**
+total_emojis,0.264,0.286,0.322,0.663**
+promedio_emojis_por_palabra,0.197,0.305,0.239,0.432

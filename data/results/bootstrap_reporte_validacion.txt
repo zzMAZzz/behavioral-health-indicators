@@ -1,0 +1,80 @@
+================================================================================
+REPORTE DE VALIDACIÓN - INTERVALOS DE CONFIANZA BOOTSTRAP
+================================================================================
+
+Fecha de análisis: 2025-11-16 22:36:18
+Tamaño de muestra: n=18 participantes
+Iteraciones bootstrap: 10,000 por correlación
+Nivel de confianza: 95%
+
+--------------------------------------------------------------------------------
+RESUMEN EJECUTIVO
+--------------------------------------------------------------------------------
+
+Total de correlaciones analizadas: 56
+Significativas por p-value (p<0.05): 5 (8.9%)
+Significativas por Bootstrap IC: 6 (10.7%)
+Robustas (ambos criterios): 5 (8.9%)
+
+--------------------------------------------------------------------------------
+CORRELACIONES ROBUSTAS (p<0.05 Y IC NO CRUZA 0)
+--------------------------------------------------------------------------------
+
+1. promedio_negativas vs dass_ansiedad
+   ρ = -0.547
+   IC 95%: [-0.818, -0.046]
+   p-value: 0.0188
+   n válido: 18
+
+2. promedio_tristeza vs dass_estres
+   ρ = 0.629
+   IC 95%: [0.192, 0.872]
+   p-value: 0.0052
+   n válido: 18
+
+3. num_publicaciones vs dass_estres
+   ρ = 0.661
+   IC 95%: [0.293, 0.875]
+   p-value: 0.0028
+   n válido: 18
+
+4. total_emojis vs dass_estres
+   ρ = 0.663
+   IC 95%: [0.334, 0.812]
+   p-value: 0.0027
+   n válido: 18
+
+5. promedio_miedo vs dass_estres
+   ρ = 0.717
+   IC 95%: [0.371, 0.890]
+   p-value: 0.0008
+   n válido: 18
+
+--------------------------------------------------------------------------------
+CORRELACIONES NO CONFIABLES (IC CRUZA 0)
+--------------------------------------------------------------------------------
+
+✓ Todas las correlaciones con p<0.05 tienen IC que no cruza 0.
+
+--------------------------------------------------------------------------------
+INTERPRETACIÓN Y RECOMENDACIONES
+--------------------------------------------------------------------------------
+
+1. INTERVALOS DE CONFIANZA:
+   - IC que NO cruza 0: Correlación confiable
+   - IC que cruza 0: Correlación NO confiable (posible falso positivo)
+
+2. LIMITACIONES CON n=11:
+   - Los intervalos de confianza son AMPLIOS (alta incertidumbre)
+   - Correlaciones moderadas pueden tener IC que cruzan 0
+   - Se recomienda interpretar resultados como EXPLORATORIOS
+
+3. RECOMENDACIONES:
+   - Marcar hallazgos actuales como 'preliminares'
+   - Validar con muestra mayor (n≥20 mínimo, ideal n≥30)
+   - Enfocarse en correlaciones con |ρ|>0.5 e IC robusto
+   - Aplicar corrección por comparaciones múltiples (Bonferroni/FDR)
+
+================================================================================
+FIN DEL REPORTE
+================================================================================

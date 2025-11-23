@@ -1,0 +1,15 @@
+﻿id_publicacion,texto_publicacion,sentimiento,sentimiento_manual
+EST001_508,@⁨Jackyr IS⁩ 10/6/25 3:29 p. m. - Cambiaste el ícono del grupo.,NEG,NEU
+EST001_508,@⁨Jackyr IS⁩ 10/6/25 3:29 p. m. - Cambiaste el ícono del grupo.,NEG,NEU
+EST011_039,"@⁨Miguel Zelaya⁩ una pregunta, va que en tu plantilla no tenes ningun apartado de ""packages"" o donde están los que se supone que se necesitan o es que estan ocultos",NEG,NEU
+EST003_233,"En España si funciona, pero todo es generalizado",NEG,NEU
+EST006_291,"Nombe, 25? si llevo 40 y me falta parte del cap 5",NEG,NEU
+EST001_1942,Estoy con datos,NEG,NEU
+EST010_085,No creo que te den desayuno a las 5 o 6 de la mañana,NEG,NEU
+EST011_032,Pero no creí que estaba esperando el momento para desquitarsela,NEU,NEG
+EST015_838,"🚨🚨🚨 *¡¡¡Urgente!!!*🚨🚨🚨 ¡¡Ya se acerca nuestro aniversario!!  Y como sabrán, hay ciertos gastos que debemos sufragar. Por ese motivo, les pedimos su colaboración de *L.50* para sufragar los gastos de alimentacion para todos, piñatas, y decoración, tanto del día miércoles, como de la Feria Vocacional de la Semana Anterior. Estaremos a partir de las 9:00 am en la cuarta planta recolectando fondos.  *¡¡Gracias a Todos por su apoyo!!*",NEU,POS
+EST001_741,Ya están reservadas. Estamos a 1-2 días.,POS,NEU
+EST007_720,"Recuerden ""Ya pagamos"" Entre todos los gastos serian como 5k ya Tenemos reconocimientos hecho Programas de las empresas determinados para nosotros Ya solo faltan hoy y mañana hay que decir todo lo posible",POS,NEU
+EST004_896,Solo vos faltas,POS,NEU
+EST001_1450,"Suerte bro, la necesitarás.",POS,NEU
+EST006_280,"Son varias man, eso suma",POS,NEU

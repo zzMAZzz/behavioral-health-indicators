@@ -1,0 +1,87 @@
+================================================================================
+REPORTE DE ANÁLISIS DE CLUSTERING
+Perfiles Comportamentales de Estudiantes
+================================================================================
+
+Fecha de análisis: 2025-11-16 22:56:38
+Tamaño de muestra: n=18 participantes
+Número de clusters: k=2
+Silhouette Score: 0.351
+Variables utilizadas: 13
+
+--------------------------------------------------------------------------------
+PERFILES DE CLUSTERS
+--------------------------------------------------------------------------------
+
+
+CLUSTER 0
+Tamaño: n=2 (11.1%)
+Participantes: EST013, EST014
+
+Características Digitales (Promedios):
+  - promedio_score_positivo: 0.031
+  - promedio_score_negativo: 0.297
+  - promedio_alegria: 0.029
+  - promedio_tristeza: 0.007
+  - promedio_enojo: 0.004
+  - promedio_miedo: 0.002
+  - promedio_palabras: 13.250
+  - promedio_riqueza_lexica: 0.949
+  - promedio_pronombres_1era_sing: 0.000
+  - promedio_absolutistas: 0.000
+  - promedio_negativas: 5.280
+  - num_publicaciones: 2.500
+  - total_emojis: 0.000
+
+Salud Mental (Promedios):
+  - dass_depresion: 7.00
+  - dass_ansiedad: 4.00
+  - dass_estres: 8.00
+  - ucla_total: 45.00
+
+----------------------------------------
+
+CLUSTER 1
+Tamaño: n=16 (88.9%)
+Participantes: EST001, EST002, EST003, EST004, EST007, EST008, EST009, EST010, EST011, EST012, EST015, EST016, EST017, EST018, EST020, EST021
+
+Características Digitales (Promedios):
+  - promedio_score_positivo: 0.126
+  - promedio_score_negativo: 0.285
+  - promedio_alegria: 0.049
+  - promedio_tristeza: 0.020
+  - promedio_enojo: 0.039
+  - promedio_miedo: 0.005
+  - promedio_palabras: 10.852
+  - promedio_riqueza_lexica: 0.972
+  - promedio_pronombres_1era_sing: 1.957
+  - promedio_absolutistas: 1.165
+  - promedio_negativas: 2.122
+  - num_publicaciones: 409.125
+  - total_emojis: 73.062
+
+Salud Mental (Promedios):
+  - dass_depresion: 19.12
+  - dass_ansiedad: 14.88
+  - dass_estres: 24.25
+  - ucla_total: 51.44
+
+----------------------------------------
+
+================================================================================
+INTERPRETACIÓN
+================================================================================
+
+El análisis de clustering identificó 2 grupos naturales de estudiantes
+basados en sus patrones de comportamiento digital. Cada cluster representa
+un perfil único de expresión emocional, estilo lingüístico y actividad en redes.
+
+RECOMENDACIONES:
+- Analizar cualitativamente publicaciones representativas de cada cluster
+- Validar perfiles con entrevistas a participantes de cada grupo
+- Usar clusters como variable en análisis longitudinales futuros
+- Considerar intervenciones diferenciadas por perfil comportamental
+
+================================================================================
+FIN DEL REPORTE
+================================================================================

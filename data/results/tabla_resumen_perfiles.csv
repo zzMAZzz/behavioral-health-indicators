@@ -1,0 +1,19 @@
+﻿id_participante,num_publicaciones,total_emojis,promedio_score_negativo,promedio_score_positivo,promedio_tristeza,promedio_alegria,promedio_negativas,promedio_absolutistas,promedio_pronombres_1era_sing,ucla_total,ucla_categoria,dass_depresion,dass_depresion_cat,dass_ansiedad,dass_ansiedad_cat,dass_estres,dass_estres_cat
+EST001,1515,274,0.277,0.138,0.029,0.052,1.71,1.067,1.62,54,Alta soledad,28,Extremadamente severa,10,Moderada,28,Severo
+EST002,589,31,0.278,0.153,0.033,0.054,2.008,1.825,2.251,44,Alta soledad,12,Leve,4,Normal,14,Normal
+EST003,454,89,0.205,0.156,0.018,0.033,1.131,0.737,1.487,47,Alta soledad,20,Moderada,20,Extremadamente severa,30,Severo
+EST004,1056,267,0.284,0.117,0.024,0.039,1.674,0.747,1.887,52,Alta soledad,18,Moderada,30,Extremadamente severa,30,Severo
+EST007,723,56,0.237,0.139,0.019,0.054,1.977,1.222,1.813,57,Alta soledad,8,Normal,24,Extremadamente severa,34,Extremadamente severo
+EST008,190,77,0.326,0.109,0.037,0.029,2.855,0.521,1.623,47,Alta soledad,14,Moderada,4,Normal,34,Extremadamente severo
+EST009,106,164,0.359,0.126,0.018,0.059,2.512,0.904,3.426,50,Alta soledad,10,Leve,18,Severa,24,Moderado
+EST010,162,4,0.24,0.116,0.02,0.058,2.467,1.181,3.289,62,Alta soledad,26,Severa,24,Extremadamente severa,24,Moderado
+EST011,50,25,0.427,0.075,0.016,0.042,2.89,0.847,2.243,57,Alta soledad,32,Extremadamente severa,8,Leve,22,Moderado
+EST012,180,13,0.238,0.1,0.009,0.028,2.274,0.863,0.585,52,Alta soledad,14,Moderada,6,Normal,2,Normal
+EST013,4,0,0.092,0.052,0.01,0.055,5.0,0.0,0.0,43,Soledad moderada,10,Leve,2,Normal,8,Normal
+EST014,1,0,0.501,0.01,0.003,0.004,5.56,0.0,0.0,47,Alta soledad,4,Normal,6,Normal,8,Normal
+EST015,647,38,0.261,0.132,0.018,0.037,1.924,1.576,1.238,54,Alta soledad,30,Extremadamente severa,8,Leve,34,Extremadamente severo
+EST016,42,2,0.36,0.082,0.014,0.025,2.342,1.228,2.728,40,Soledad moderada,16,Moderada,16,Severa,14,Normal
+EST017,417,99,0.375,0.124,0.035,0.033,2.66,0.893,2.074,54,Alta soledad,24,Severa,18,Severa,30,Severo
+EST018,19,2,0.218,0.198,0.008,0.129,1.053,3.509,1.721,58,Alta soledad,30,Extremadamente severa,26,Extremadamente severa,24,Moderado
+EST020,118,27,0.188,0.15,0.016,0.08,2.249,0.447,2.454,50,Alta soledad,18,Moderada,8,Leve,20,Moderado
+EST021,278,1,0.293,0.103,0.013,0.033,2.23,1.066,0.866,45,Alta soledad,6,Normal,14,Moderada,24,Moderado
